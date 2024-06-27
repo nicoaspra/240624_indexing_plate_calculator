@@ -1,9 +1,9 @@
 from fractions import Fraction
 
 indexing_plates = {
-    'Plate 1': [15, 16, 17, 18, 19, 20],
-    'Plate 2': [21, 23, 27, 29, 31, 33],
-    'Plate 3': [37, 39, 41, 43, 47, 49]
+    'Plate #1': [15, 16, 17, 18, 19, 20],
+    'Plate #2': [21, 23, 27, 29, 31, 33],
+    'Plate #3': [37, 39, 41, 43, 47, 49]
 }
 
 def find_smallest_divisible_hole(denominator):
